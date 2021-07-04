@@ -1,0 +1,17 @@
+{
+    "name": "sandbox-backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "author": "Dimas",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-validator": "^6.12.0",
+        "mysql2": "^2.2.5",
+        "sequelize": "^6.6.4"
+    }
+}
